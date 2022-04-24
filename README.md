@@ -20,6 +20,6 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=Z16Z4" alt="greek0x0" />
 </p>
 
-<p align = "right">
+<p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=greek0x0&hide=TeX,HTML&theme=synthwave">
 </p>
