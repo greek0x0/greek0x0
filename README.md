@@ -1,4 +1,3 @@
-### Hi there 👋
 ```python 
 Input --> Computation --> Output 
 
