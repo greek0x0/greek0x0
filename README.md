@@ -1,5 +1,8 @@
 ### Hi there 👋
+```python 
+Input --> Computation --> Output 
 
+```
 <!--
 **greek0x0/greek0x0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
