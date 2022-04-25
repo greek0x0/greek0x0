@@ -1,4 +1,4 @@
-```python 
+```assembly
 Disassembly of section .text:
 
 0000000000401000 <.text>:
