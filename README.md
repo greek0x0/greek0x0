@@ -1,12 +1,4 @@
-```assembly
-Disassembly of section .text:
 
-0000000000401000 <.text>:
-  401000: e8 0c 00 00 00               	callq	0x401011 <_printHello>
-  401005: b8 3c 00 00 00               	movl	$60, %eax
-  40100a: bf 00 00 00 00               	movl	$0, %edi
-  40100f: 0f 05                        	syscall
-```
 <!--
 **greek0x0/greek0x0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
