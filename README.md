@@ -27,3 +27,7 @@ Here are some ideas to get you started:
 <p align = "left">
  <img src="https://tryhackme-badges.s3.amazonaws.com/greekbust.png" alt="TryHackMe">
   <p align = "left">
+
+  <p align = "right">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/greekbust.png" alt="TryHackMe" />
+<p align = "right">
