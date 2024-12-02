@@ -29,5 +29,5 @@ Here are some ideas to get you started:
   <p align = "left">
 
   <p align = "right">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/greekbust.png" alt="TryHackMe" />
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=628086" style='border:none;'></iframe>
 <p align = "right">
