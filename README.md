@@ -30,9 +30,8 @@
 
 
 <p align="center">
-  <img src="https://www.getmonero.org/press-kit/symbols/monero-symbol-480.png" alt="Monero" width="40" height="40">
-  <strong></strong><br>
-  84Sj1bT6Sjx1hihrLv5ma27CUBGdk8x3yRDUfDhq7rvJWoRqcDRyuS4LT7VkKdin4MSNaXaXY9bCpBWeNHXSrzxY23YszXi
+  <img src="https://www.getmonero.org/press-kit/symbols/monero-symbol-480.png" alt="Monero" width="40" height="40"><br>
+  <small>84Sj1bT6Sjx1hihrLv5ma27CUBGdk8x3yRDUfDhq7rvJWoRqcDRyuS4LT7VkKdin4MSNaXaXY9bCpBWeNHXSrzxY23YszXi</small>
 </p>
 <p align="center">
   <em></em>
