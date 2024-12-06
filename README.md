@@ -24,4 +24,4 @@
 <!--![Ruby](https://img.shields.io/badge/-ruby-red?style=for-the-badge&logo=ruby&logoColor=white)
 ![C](https://img.shields.io/badge/-C-lightgrey?style=for-the-badge&logo=c&logoColor=white)
 -->
-![MalDev Academy](https://img.shields.io/badge/MalDev_Academy-Learning_Module-red?style=for-the-badge&logo=hackthebox&logoColor=white)
+![MalDev Academy](https://img.shields.io/badge/MalDev_Academy-red?style=for-the-badge&logo=hackthebox&logoColor=white)
