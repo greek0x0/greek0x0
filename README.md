@@ -27,7 +27,12 @@
 <!--![MalDev Academy](https://img.shields.io/badge/MalDev_Academy-red?style=for-the-badge&logo=hackthebox&logoColor=white)
 -->
 <p align="center">
-  <a href="monero:84Sj1bT6Sjx1hihrLv5ma27CUBGdk8x3yRDUfDhq7rvJWoRqcDRyuS4LT7VkKdin4MSNaXaXY9bCpBWeNHXSrzxY23YszXi">
-    <img src="https://www.getmonero.org/press-kit/symbols/monero-symbol-480.png" alt="Monero" width="40" height="40">
-  </a>
+  <img src="https://www.getmonero.org/press-kit/symbols/monero-symbol-480.png" alt="Monero" width="40" height="40">
+</p>
+<p align="center">
+  <strong>Monero Address:</strong><br>
+  84Sj1bT6Sjx1hihrLv5ma27CUBGdk8x3yRDUfDhq7rvJWoRqcDRyuS4LT7VkKdin4MSNaXaXY9bCpBWeNHXSrzxY23YszXi
+</p>
+<p align="center">
+  <em>Copy the address and paste it into your wallet to send Monero.</em>
 </p>
