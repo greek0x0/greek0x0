@@ -26,6 +26,9 @@
 -->
 <!--![MalDev Academy](https://img.shields.io/badge/MalDev_Academy-red?style=for-the-badge&logo=hackthebox&logoColor=white)
 -->
+<hr style="border: none; border-top: 2px solid #ccc; margin: 20px 0;">
+
+
 <p align="center">
   <img src="https://www.getmonero.org/press-kit/symbols/monero-symbol-480.png" alt="Monero" width="40" height="40">
 </p>
