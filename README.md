@@ -26,3 +26,5 @@
 -->
 <!--![MalDev Academy](https://img.shields.io/badge/MalDev_Academy-red?style=for-the-badge&logo=hackthebox&logoColor=white)
 -->
+[![donate with monero](https://www.getmonero.org/press-kit/symbols/monero-symbol-480.png)](monero:84Sj1bT6Sjx1hihrLv5ma27CUBGdk8x3yRDUfDhq7rvJWoRqcDRyuS4LT7VkKdin4MSNaXaXY9bCpBWeNHXSrzxY23YszXi)
+donate with monero
