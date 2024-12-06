@@ -34,5 +34,5 @@
   84Sj1bT6Sjx1hihrLv5ma27CUBGdk8x3yRDUfDhq7rvJWoRqcDRyuS4LT7VkKdin4MSNaXaXY9bCpBWeNHXSrzxY23YszXi
 </p>
 <p align="center">
-  <em>Copy the address and paste it into your wallet to send Monero.</em>
+  <em></em>
 </p>
