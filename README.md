@@ -26,5 +26,7 @@
 -->
 <!--![MalDev Academy](https://img.shields.io/badge/MalDev_Academy-red?style=for-the-badge&logo=hackthebox&logoColor=white)
 -->
-[![donate with monero](https://www.getmonero.org/press-kit/symbols/monero-symbol-480.png)](monero:84Sj1bT6Sjx1hihrLv5ma27CUBGdk8x3yRDUfDhq7rvJWoRqcDRyuS4LT7VkKdin4MSNaXaXY9bCpBWeNHXSrzxY23YszXi)
-donate with monero
+<a href="monero:84Sj1bT6Sjx1hihrLv5ma27CUBGdk8x3yRDUfDhq7rvJWoRqcDRyuS4LT7VkKdin4MSNaXaXY9bCpBWeNHXSrzxY23YszXi" target="_blank">
+  <img src="https://www.getmonero.org/press-kit/symbols/monero-symbol-480.png" alt="Monero" style="width:20px;height:20px;vertical-align:middle;"> 
+  Donate with Monero
+</a>
